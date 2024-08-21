@@ -35,6 +35,7 @@ personal-portfolio/
 ├── styles.css # The main CSS file for styling
 ├── assets/ # Directory for images, icons, etc.
 │ ├── background.png # Background image used in the website
+│ └── rem-code.png # Project image for the reminder notification project
 └── README.md # This file
 
 ## Contact
