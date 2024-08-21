@@ -37,7 +37,7 @@ personal-portfolio/
 │ ├── background.png # Background image used in the website
 └── README.md # This file
 
-**Contact**
+## Contact
 
 Feel free to reach out to me for collaboration or any queries:
 Email: nikita.sharma0727@gmail.com
